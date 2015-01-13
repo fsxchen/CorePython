@@ -1,0 +1,12 @@
+2014-12-15 16:09:26,607 - network-server - DEBUG - accept connection from 127.0.0.1, 39118, fd = 6
+2014-12-15 16:09:26,607 - network-server - DEBUG - 6 receive The Number is 1
+2014-12-15 16:09:27,608 - network-server - DEBUG - 6 receive The Number is 2
+2014-12-15 16:09:28,610 - network-server - DEBUG - 6 receive The Number is 3
+2014-12-15 16:09:29,610 - network-server - DEBUG - 6 receive The Number is 4
+2014-12-15 16:09:30,611 - network-server - DEBUG - 6 receive The Number is 5
+2014-12-15 16:09:31,612 - network-server - DEBUG - 6 receive The Number is 6
+2014-12-15 16:09:32,614 - network-server - DEBUG - 6 receive The Number is 7
+2014-12-15 16:09:33,616 - network-server - DEBUG - 6 receive The Number is 8
+2014-12-15 16:09:34,616 - network-server - DEBUG - 6 receive The Number is 9
+2014-12-15 16:09:35,617 - network-server - DEBUG - 6 receive The Number is 10
+2014-12-15 16:09:36,618 - network-server - DEBUG - 127.0.0.1, 39118 closed
